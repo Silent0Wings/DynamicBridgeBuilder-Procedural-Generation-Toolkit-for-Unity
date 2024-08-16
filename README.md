@@ -1,4 +1,6 @@
 # DynamicBridgeBuilder: Procedural Generation Toolkit for Unity
+Project Repport .[here](https://github.com/Silent0Wings/Othello-Game-Variant/blob/2f09b01cafeff74f0012f17e44f92abeb4be3d97/Github.pdf).
+
 ### Example Screenshots
 
 Below are some example screenshots showcasing the features and capabilities of **DynamicBridgeBuilder**:
