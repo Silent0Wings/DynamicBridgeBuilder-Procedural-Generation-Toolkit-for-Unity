@@ -53,12 +53,6 @@ Below are some example screenshots showcasing the features and capabilities of *
 ;
 </p>
 
-<p align="center">
-  <img src="images/terrain_adaptation.png" alt="Terrain Adaptation" width="250"/>
-  <img src="images/custom_bridge_types.png" alt="Customizable Bridge Types" width="250"/>
-  <img src="images/real_time_editing.png" alt="Real-time Editing" width="250"/>
-</p>
-
 ### Advanced Features
 
 - **Custom Bridge Types:**
