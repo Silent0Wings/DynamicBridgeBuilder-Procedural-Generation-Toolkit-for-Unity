@@ -1,5 +1,6 @@
 # DynamicBridgeBuilder: Procedural Generation Toolkit for Unity
-Project Report [here](https://github.com/Silent0Wings/DynamicBridgeBuilder-Procedural-Generation-Toolkit-for-Unity/blob/3ba3d6a41c9022c9149c7003ab42d4f945c64321/Github.pdf).
+Project Report 
+[Full Repport](https://github.com/Silent0Wings/DynamicBridgeBuilder-Procedural-Generation-Toolkit-for-Unity/blob/3ba3d6a41c9022c9149c7003ab42d4f945c64321/Github.pdf).
 
 ### Example Screenshots
 
